@@ -32,7 +32,7 @@ window.addEventListener("scroll",function(){
         let links = document.querySelectorAll("a");
         // get top for elm 
         let react = section.getBoundingClientRect();
-        if (react.top >= 0 && react.top < 150) {
+        if (react.top >= 0 && react.top < 100) {
             section.style.backgroundColor="yellow";
             
             sections.forEach(section=>{
