@@ -1,8 +1,15 @@
-#section4
+html
 {
-    margin-bottom: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
+footer
+{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    margin: 100px 0px;
+    
+}
 html {
     scroll-behavior: smooth;
     
